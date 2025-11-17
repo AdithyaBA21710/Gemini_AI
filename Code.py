@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyCi2wtoHEej5bBHYH34pi9MyTrjHWyQMcc")
+client = genai.Client(api_key="")
 
 text="Akasa Air, on Friday, announced its partnership with Adani Airport Holdings Limited (AAHL), and is set to begin commercial flight operations from the upcoming Navi Mumbai International Airport (NMIA). This decision follows a week after IndiGo’s announcement to launch flights from NMIA."
 
